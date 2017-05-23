@@ -1,0 +1,96 @@
+@keyframes B0get990 {
+	from {
+		transform: translate(0, 0)
+	}
+	25% {
+		transform: translate(-990px, 0)
+	}
+	to {
+		transform: translate(-990px, 0)
+	}
+}
+@keyframes B990get0 {
+	from {
+		transform: translate(-990px, 0)
+	}
+	25% {
+		transform: translate(0, 0)
+	}
+	to {
+		transform: translate(0, 0)
+	}
+}
+@keyframes BR990get0 {
+	from {
+		transform: translate(990px, 0)
+	}
+	25% {
+		transform: translate(0, 0)
+	}
+	to {
+		transform: translate(0, 0)
+	}
+}
+@keyframes BR0get990 {
+	from {
+		transform: translate(0, 0)
+	}
+	25% {
+		transform: translate(990px, 0)
+	}
+	to {
+		transform: translate(990px, 0)
+	}
+}
+@keyframes B990get1980 {
+	from {
+		transform: translate(-990px, 0)
+	}
+	25% {
+		transform: translate(-1980px, 0)
+	}
+	to {
+		transform: translate(-1980px, 0)
+	}
+}
+@keyframes B1980get990 {
+	from {
+		transform: translate(-1980px, 0)
+	}
+	25% {
+		transform: translate(-990px, 0)
+	}
+	to {
+		transform: translate(-990px, 0)
+	}
+}
+@keyframes B1980get2970 {
+	from {
+		transform: translate(-1980px, 0)
+	}
+	25% {
+		transform: translate(-2970px, 0)
+	}
+	to {
+		transform: translate(-2970px, 0)
+	}
+}
+@keyframes B2970get1980 {
+	from {
+		transform: translate(-2970px, 0)
+	}
+	25% {
+		transform: translate(-1980px, 0)
+	}
+	to {
+		transform: translate(-1980px, 0)
+	}
+}
+@keyframes usual {
+	from {
+		transform: translate(0, 0)
+	}
+	to {
+		transform: translate(0, 0)
+	}
+}
